@@ -54,7 +54,7 @@ a {
 }
 p {
   color: rgb(200,200,200);
-  width: 600px;
+  width: 620px;
 
    margin-right: 150px;
     margin-left: 200px;
@@ -84,4 +84,3 @@ h1, h2, h3{
 h4, h5, h6{
   line-height: 10px; 
 }
-
